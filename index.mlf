@@ -1,0 +1,5 @@
+mlf.master.language.file.type set webpage
+mlf.master.language.file.name set index
+mlf.master.language.file.file set index.mfl
+mlf.master.language.file.id set header (propierties= h1)
+mlf.master.language.file print(id=header) 
